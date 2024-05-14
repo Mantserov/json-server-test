@@ -1,9 +1,16 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "texts": [
+    {
+      "id": "b423",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed doloribus obcaecati officia facere aliquam suscipit odio eos similique consequuntur odit expedita fugiat hic officiis, quia culpa rem molestiae veritatis dicta."
+    },
+    {
+      "id": "d4ed",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed doloribus obcaecati officia facere aliquam suscipit odio eos similique consequuntur odit expedita fugiat hic officiis, quia culpa rem molestiae veritatis dicta.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed doloribus obcaecati officia facere aliquam suscipit odio eos similique consequuntur odit expedita fugiat hic officiis, quia culpa rem molestiae veritatis dicta."
+    },
+    {
+      "id": "a432",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed doloribus obcaecati officia facere aliquam suscipit odio eos similique consequuntur odit expedita fugiat hic officiis, quia culpa rem molestiae veritatis dicta."
+    }
+  ]
 }
